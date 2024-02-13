@@ -32,6 +32,7 @@ h1 {
   text-shadow: rgb(255, 0, 25) 15px 10px;
   width: 166px;
   height: 166px;
+  cursor: pointer;
 }
 
 .drum-container {
